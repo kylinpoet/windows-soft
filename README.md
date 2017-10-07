@@ -1,3 +1,2 @@
 # windows-soft
-
-收集常用windows软件
+手机常用windows软件
